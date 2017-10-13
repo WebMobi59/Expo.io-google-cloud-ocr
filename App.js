@@ -4,7 +4,7 @@ import { Camera, Permissions } from 'expo';
 import axios from 'axios';
 import Spinner from 'react-native-loading-spinner-overlay';
 
-const cloudVisionKey = 'AIzaSyCLt-6tFD-Pk8LTQMjG8al_itbAT2M6m_Q';
+const cloudVisionKey = '';
 const cloudVision  = 'https://vision.googleapis.com/v1/images:annotate?key=' + cloudVisionKey;
 
 
